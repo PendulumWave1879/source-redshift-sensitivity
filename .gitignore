@@ -42,3 +42,4 @@ figures/
 notebooks/
 scripts/*.save
 src/_old_src/
+eval "$(ssh-agent -s)"*
