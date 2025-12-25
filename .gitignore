@@ -22,3 +22,21 @@ data/external/
 .DS_Store
 Thumbs.db
 
+# Local caches
+.cache/
+
+
+# Documents and manuscripts
+docs/*.pdf
+docs/*.odt
+docs/manuscript/
+docs/notes/
+
+# Paper artifacts
+paper/
+
+# Figures generated for paper
+figures/
+
+# Notebooks (optional; remove if you want notebooks public)
+notebooks/
