@@ -40,3 +40,4 @@ figures/
 
 # Notebooks (optional; remove if you want notebooks public)
 notebooks/
+scripts/*.save
